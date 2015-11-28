@@ -6,7 +6,7 @@ Simply add this alias to your .profile:
 alias wscat='docker run -it --rm --net=host joshgubler/wscat'
 ```
 
-To test, in one terminal, run:
+To test, in a terminal, run:
 ```
 wscat -l 8080
 ```
