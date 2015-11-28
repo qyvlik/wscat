@@ -1,5 +1,7 @@
 # wscat
-Builds an executable docker image that runs wscat.
+Builds an executable docker container that runs wscat.
+
+You don't need to clone this repo; just get the image from dockerhub.
 
 Simply add this alias to your .profile:
 ```
