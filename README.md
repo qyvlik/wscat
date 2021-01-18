@@ -22,7 +22,7 @@ Now text entered into either terminal should show up in the other.
 
 Another test is to connect to the echo server:
 ```
-wscat -c ws://echo.websocket.org
+wscat -c wss://echo.websocket.org
 ```
 
 For a full explanation of what is happening here, see https://blog.grandcentrix.net/a-command-line-websocket-client/
