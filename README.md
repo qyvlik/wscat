@@ -5,7 +5,7 @@ You don't need to clone this repo; just get the image from dockerhub.
 
 Simply add this alias to your .profile:
 ```
-alias wscat='docker run -it --rm --net=host joshgubler/wscat'
+alias wscat='docker run -it --rm --net=host qyvlik/wscat'
 ```
 
 To test, in a terminal, run:
